@@ -1,0 +1,1 @@
+// Component stubs - all components are defined in app.js
